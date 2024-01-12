@@ -28,7 +28,7 @@
         <slf4j.version>1.7.25</slf4j.version>
 
         <!-- DB -->
-        <hsqldb.version>2.5.0</hsqldb.version>
+        <hsqldb.version>2.7.1</hsqldb.version>
 
         <!-- Hibernate -->
         <hibernate.version>5.4.24.Final</hibernate.version>
